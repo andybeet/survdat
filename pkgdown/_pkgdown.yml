@@ -31,6 +31,7 @@ reference:
   - get_sex_fscs
   - get_vessel
   - get_conversion_factors
+  - get_length_weight
 - title: "Plotting"
   desc: "Basic plotting functions to visualize data"
 - contents:

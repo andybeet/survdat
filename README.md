@@ -1,8 +1,16 @@
-# survdat
+# survdat <img src="man/figures/logo.png" align="right" width="120" /> 
 
-![deploy to github pages](https://github.com/NOAA-EDAB/survdat/workflows/deploy%20to%20github%20pages/badge.svg) ![Install on windows](https://github.com/NOAA-EDAB/survdat/workflows/Install%20on%20windows/badge.svg) ![gitleaks](https://github.com/NOAA-EDAB/survdat/workflows/gitleaks/badge.svg)
+### Everything you need to pull and process the NEFSC survey data
 
-Pull and process survey data
+<!-- badges: start -->
+[![gh-pages](https://github.com/NOAA-EDAB/survdat/workflows/deploy%20to%20github%20pages/badge.svg)](https://github.com/NOAA-EDAB/survdat/actions)
+[![Install on windows](https://github.com/NOAA-EDAB/survdat/workflows/Install%20on%20windows/badge.svg)](https://github.com/NOAA-EDAB/survdat/actions) [![gitleaks](https://github.com/NOAA-EDAB/survdat/workflows/gitleaks/badge.svg)](https://github.com/NOAA-EDAB/survdat/actions)
+<!-- badges: end -->
+
+---
+
+
+## Usage
 
 To use this package you will need:
 
@@ -10,7 +18,7 @@ To use this package you will need:
 2.  Permissions to access the required server : a username and password.
 3.  Oracle's instant Client installed
 
-## Usage
+
 
 ### Installation
 
